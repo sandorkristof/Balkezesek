@@ -1,0 +1,3 @@
+C:\c#\Balkezesek\Balkezesek\obj\Debug\Balkezesek.csproj.AssemblyReference.cache
+C:\c#\Balkezesek\Balkezesek\obj\Debug\Balkezesek.csproj.SuggestedBindingRedirects.cache
+C:\c#\Balkezesek\Balkezesek\obj\Debug\Balkezesek.csproj.CoreCompileInputs.cache
